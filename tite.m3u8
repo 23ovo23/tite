@@ -1,1 +1,59 @@
-tun tun saur
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="Noticias",ADN 40
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/29959.m3u8
+
+#EXTINF:-1 tvg-name="ADN 40 OP2" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="Noticias",ADN 40 OP2
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/77088.m3u8
+
+#EXTINF:-1 tvg-name="AMX Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpeg" group-title="Noticias",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/1280px-Logotipo_de_TV_Azteca.svg.png" group-title="General",AZTECA UNO
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/39225.m3u8
+
+#EXTINF:-1 tvg-name="AZTECA UNO op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/1280px-Logotipo_de_TV_Azteca.svg.png" group-title="General",AZTECA UNO op2
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133876.m3u8
+
+#EXTINF:-1 tvg-name="AZTECA CLIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/1920px-TV_Azteca_Clic_logo.svg.png" group-title="General",AZTECA CLIC
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151358.m3u8
+
+#EXTINF:-1 tvg-name="AZTECA CLIC op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/1920px-TV_Azteca_Clic_logo.svg.png" group-title="General",AZTECA CLIC op2
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151358.m3u8
+
+#EXTINF:-1 tvg-name="Canal 22 Nacional" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Educativos",Canal 22 Nacional
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151335.m3u8
+
+#EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/330px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="General",LAS ESTRELLAS
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/30321.m3u8
+
+#EXTINF:-1 tvg-name="Mexiquense TV" tvg-logo="https://revistazocalo.com/wp-content/uploads/2023/11/dsdssd.jpg" group-title="Regional",Mexiquense TV
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/77102.m3u8
+
+#EXTINF:-1 tvg-name="N+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/330px-Logo-nmas.png" group-title="Noticias",N+
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true
+
+#EXTINF:-1 tvg-name="RTQ QUERETARO" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/04/RTQ-logo-blanco-1.jpg" group-title="Regional",RTQ QUERETARO
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="General",IMAGEN TV
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/60794.m3u8
+
+#EXTINF:-1 tvg-name="Nu9ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/1920px-Nueve_%282018_logo%29.png" group-title="General",Nu9ve
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133871.m3u8
+
+#EXTINF:-1 tvg-name="EL FINANCIERO" tvg-logo="https://media.licdn.com/dms/image/v2/C561BAQGQGKosQuqnSw/company-background_10000/company-background_10000/0/1623201386350/el_financiero_cover?e=2147483647&v=beta&t=Gbff91mILCc7AG5SAt9HkvaceQuamZyRJppUNFsdTNE" group-title="Económicos",EL FINANCIERO
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151378.m3u8
+
+#EXTINF:-1 tvg-name="TV UNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="Educativos",TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-name="CANAL ONCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="Educativos",CANAL ONCE
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133872.m3u8
+
+#EXTINF:-1 tvg-name="CANAL 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="General",CANAL 5 HD
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133870.m3u8
+
+#EXTINF:-1 tvg-name="CANAL 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="General",CANAL 5 SD
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/134290.m3u8
