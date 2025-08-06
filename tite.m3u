@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tv/virginmedia.co.uk.epg.xml"
 
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="General",ADN 40
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/29959.m3u8
