@@ -245,10 +245,10 @@ http://legendstv.com.mx:8080/live/Charly1234/Charly1234/551856.m3u8
 #EXTINF:-1 tvg-id="Futurama" tvg-name="FUTURAMA" tvg-logo="https://logodix.com/logo/1776271.png" group-title="Series 24/7",FUTURAMA
 http://flx.lat:8080/live/feltre/tsCmGYDb84KV/126518.m3u8
 
-#EXTINF:-1 tvg-id="Futurama" tvg-name="FUTURAMA" tvg-logo="https://logodix.com/logo/1776271.png" group-title="Series 24/7",La ley y el orden
+#EXTINF:-1 tvg-id="Futurama" tvg-name="FUTURAMA" tvg-logo="https://logodix.com/logo/1776271.png" group-title="Series 24/7",LA LEY Y EL ORDEN
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/277876.m3u8
 
-#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",two and a half men
+#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",TWO AND A HALF MEN
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/331098.m3u8
 
 #EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",24/7 ACCIÓN 
