@@ -83,6 +83,12 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133061.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",Animal Planet
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151323.m3u8
 
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="NATURALEZA SALVAJE " tvg-logo="" group-title="Documentales",NATURALEZA SALVAJE 
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/502763.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="NATURALEZA SALVAJE " tvg-logo="" group-title="Documentales",NATURALEZA SALVAJE OP2
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/346141.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network fhd
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/29733.m3u8
 
@@ -250,6 +256,12 @@ http://legendstv.com.mx:8080/live/Charly1234/Charly1234/277876.m3u8
 
 #EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",TWO AND A HALF MEN
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/331098.m3u8
+
+#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",DR. HOUSE
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/136592.m3u8
+
+#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",HORA DE AVENTURA
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/287020.m3u8
 
 #EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",24/7 ACCIÓN 
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/281972.m3u8
