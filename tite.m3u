@@ -245,11 +245,23 @@ http://legendstv.com.mx:8080/live/Charly1234/Charly1234/551856.m3u8
 #EXTINF:-1 tvg-id="Futurama" tvg-name="FUTURAMA" tvg-logo="https://logodix.com/logo/1776271.png" group-title="Series 24/7",FUTURAMA
 http://flx.lat:8080/live/feltre/tsCmGYDb84KV/126518.m3u8
 
-#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",24/7 ACCIÓN
-http://nxt.plus:8080/live/restreamstalker/mzfJKHLK86fy/119347.m3u8
+#EXTINF:-1 tvg-id="Futurama" tvg-name="FUTURAMA" tvg-logo="https://logodix.com/logo/1776271.png" group-title="Series 24/7",La ley y el orden
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/277876.m3u8
+
+#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",two and a half men
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/331098.m3u8
+
+#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",24/7 ACCIÓN 
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/281972.m3u8
+
+#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",24/7 ACCIÓN 4k
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/520753.m3u8 
 
 #EXTINF:-1 tvg-id="247CineInfantil" tvg-name="24/7 CINE INFANTIL" tvg-logo="" group-title="Series 24/7",24/7 CINE INFANTIL
 http://sdmx.vip:80/live/Gabriel08/ujTQVk8hT2zk/2385233.m3u8
+
+#EXTINF:-1 tvg-id="247CineInfantil" tvg-name="24/7 CINE INFANTIL" tvg-logo="" group-title="Series 24/7",24/7 CINE INFANTIL 4k
+http://legendstv.com.mx:8080/live/Charly1234/Charly1234/520745.m3u8
 
 #EXTINF:-1 tvg-id="247StarWars" tvg-name="24/7 STAR WARS" tvg-logo="" group-title="Series 24/7",24/7 STAR WARS
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/43165.ts
