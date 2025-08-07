@@ -288,7 +288,7 @@ http://streamprostk.com:2082/live/sebmar1606/mar6040/31706.m3u8
 http://sdmx.vip:80/live/Gabriel08/ujTQVk8hT2zk/2385226.m3u8
 
 #EXTINF:-1 tvg-id="247AdamSandler" tvg-name="24/7 simpsons" tvg-logo="" group-title="Series 24/7",24/7 local simpsons
-http://192.168.1.79/admin/live?uitoken=4yBPu8zFgckRXc7Y81kW0RoT5gsL0dhmsSGTlUjCXuorFUhQpKIwzV8W2BDlkx-afDHfghrxFX29z2z06-3KWwIHy_XcPlDbFMcxn-qXvITK_fwMBKKmKU6j1DeW3QLah9G2D-hTl4yu-gG5pQ2VSw&extension=.m3u8
+http://192.168.1.79:80/live/yaQQejaaUm/AGBNPAFHJD/186.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Comedia",DISTRITO COMEDIA
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/58184.m3u8
