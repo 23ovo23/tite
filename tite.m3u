@@ -288,13 +288,13 @@ http://streamprostk.com:2082/live/sebmar1606/mar6040/31706.m3u8
 http://sdmx.vip:80/live/Gabriel08/ujTQVk8hT2zk/2385226.m3u8
 
 #EXTINF:-1 tvg-id="247AdamSandler" tvg-name="24/7 simpsons" tvg-logo="" group-title="Series 24/7",24/7 LOCAL THE SIMPSONS
-http://192.168.1.79:80/live/yaQQejaaUm/AGBNPAFHJD/186.m3u8
+http://192.168.1.91:80/live/yaQQejaaUm/AGBNPAFHJD/186.m3u8
 
 #EXTINF:-1 tvg-id="247AdamSandler" tvg-name="24/7 simpsons" tvg-logo="" group-title="Series 24/7",24/7 LOCAL FUTURAMA
-http://192.168.1.79:80/live/yaQQejaaUm/AGBNPAFHJD/190.m3u8
+http://192.168.1.91:80/live/yaQQejaaUm/AGBNPAFHJD/190.m3u8
 
 #EXTINF:-1 tvg-id="247AdamSandler" tvg-name="24/7 simpsons" tvg-logo="" group-title="Series 24/7",24/7 ¡Scooby-Doo, dónde estás!
-http://192.168.1.79:80/live/yaQQejaaUm/AGBNPAFHJD/203.m3u8
+http://192.168.1.91:80/live/yaQQejaaUm/AGBNPAFHJD/203.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" vg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Comedia",DISTRITO COMEDIA
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/58184.m3u8
