@@ -1,1 +1,91 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tv/epg.xml" tvg-shift="-6"
 
+# --- 📰 NOTICIAS ---
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="[ADN40.mx] ADN 40" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="Noticias",ADN 40
+http://vdns2.top:8080/live/VIP012171068545157/4333b25f5add/5105.ts
+
+#EXTINF:-1 tvg-id="ImagenNews.mx" tvg-name="[ImagenNews.mx] Imagen News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Imagen_News_logo.svg/512px-Imagen_News_logo.svg.png" group-title="Noticias",Imagen News
+http://vdns2.top:8080/live/VIP012171068545157/4333b25f5add/5175.m3u8
+
+#EXTINF:-1 tvg-id="FOROtv.mx" tvg-name="[FOROtv.mx] FOROtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FOROtv_logo_2020.svg/512px-FOROtv_logo_2020.svg.png" group-title="Noticias",FOROtv
+#url stream
+
+#EXTINF:-1 tvg-id="TVMNoticias.mx" tvg-name="[TVMNoticias.mx] TVM Noticias" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Noticias",TVM Noticias
+#url stream
+
+
+# --- 🎬 ENTRETENIMIENTO ---
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="[AztecaUno.mx] Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png" group-title="Entretenimiento",Azteca Uno
+#url stream
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="[LasEstrellas.mx] Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Las_Estrellas_logo.svg/512px-Las_Estrellas_logo.svg.png" group-title="Entretenimiento",Las Estrellas
+#url stream
+
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="[Nu9ve.mx] NU9VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NU9VE_logo.svg/512px-NU9VE_logo.svg.png" group-title="Entretenimiento",NU9VE
+#url stream
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="[Canal5.mx] Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_5_M%C3%A9xico_logo.svg/512px-Canal_5_M%C3%A9xico_logo.svg.png" group-title="Entretenimiento",Canal 5
+#url stream
+
+#EXTINF:-1 tvg-id="AMas.mx" tvg-name="[AMas.mx] A Más" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/A_M%C3%A1s_logo.svg/512px-A_M%C3%A1s_logo.svg.png" group-title="Entretenimiento",A Más
+#url stream
+
+#EXTINF:-1 tvg-id="Azteca7Edomex.mx" tvg-name="[Azteca7Edomex.mx] Azteca 7 Edomex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png" group-title="Entretenimiento",Azteca 7 Edomex
+#url stream
+
+
+# --- 🏛️ GOBIERNO ---
+#EXTINF:-1 tvg-id="TVM.mx" tvg-name="[TVM.mx] TVM" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Gobierno",TVM
+#url stream
+
+#EXTINF:-1 tvg-id="TVMLegislatura.mx" tvg-name="[TVMLegislatura.mx] TVM Legislatura" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Gobierno",TVM Legislatura
+#url stream
+
+
+# --- 📚 EDUCACIÓN Y CULTURA ---
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="[CanalOnce.mx] Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Canal_Once_%28Mexico%29_logo.svg/512px-Canal_Once_%28Mexico%29_logo.svg.png" group-title="Educación y Cultura",Canal Once
+#url stream
+
+#EXTINF:-1 tvg-id="OnceNinos.mx" tvg-name="[OnceNinos.mx] Once Niños" tvg-logo="https://example.com/logos/once-ninos.png" group-title="Educación y Cultura",Once Niños
+#url stream
+
+#EXTINF:-1 tvg-id="OnceMundo.mx" tvg-name="[OnceMundo.mx] Once Mundo" tvg-logo="https://example.com/logos/once-mundo.png" group-title="Educación y Cultura",Once Mundo
+#url stream
+
+#EXTINF:-1 tvg-id="Once23.mx" tvg-name="[Once23.mx] Once 23" tvg-logo="https://example.com/logos/once-23.png" group-title="Educación y Cultura",Once 23
+#url stream
+
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="[TVUNAM.mx] TV UNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TV_UNAM_logo.svg/512px-TV_UNAM_logo.svg.png" group-title="Educación y Cultura",TV UNAM
+#url stream
+
+#EXTINF:-1 tvg-id="TVCientifica.mx" tvg-name="[TVCientifica.mx] TV Científica" tvg-logo="https://example.com/logos/tv-cientifica.png" group-title="Educación y Cultura",TV Científica
+#url stream
+
+#EXTINF:-1 tvg-id="CanalUNAM.mx" tvg-name="[CanalUNAM.mx] Canal UNAM" tvg-logo="https://example.com/logos/canal-unam.png" group-title="Educación y Cultura",Canal UNAM
+#url stream
+
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-name="[Canal22.mx] Canal 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Canal_22_%28Mexico%29_logo.svg/512px-Canal_22_%28Mexico%29_logo.svg.png" group-title="Educación y Cultura",Canal 22
+#url stream
+
+#EXTINF:-1 tvg-id="Clasica.mx" tvg-name="[Clasica.mx] Clásica" tvg-logo="https://example.com/logos/radio-clasica.png" group-title="Educación y Cultura",Clásica
+#url stream
+
+#EXTINF:-1 tvg-id="RTPInt.mx" tvg-name="[RTPInt.mx] RTP Internacional" tvg-logo="https://example.com/logos/rtp-internacional.png" group-title="Educación y Cultura",RTP Internacional
+#url stream
+
+
+# --- 🌐 GENERAL ---
+#EXTINF:-1 tvg-id="Imagen.mx" tvg-name="[Imagen.mx] Imagen Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Imagen_Televisi%C3%B3n_logo.svg/512px-Imagen_Televisi%C3%B3n_logo.svg.png" group-title="General",Imagen Televisión
+#url stream
+
+#EXTINF:-1 tvg-id="CMI.mx" tvg-name="[CMI.mx] CMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cadena_Mundial_de_Inspiraci%C3%B3n_logo.svg/512px-Cadena_Mundial_de_Inspiraci%C3%B3n_logo.svg.png" group-title="General",CMI
+#url stream
+
+#EXTINF:-1 tvg-id="CMIInt.mx" tvg-name="[CMIInt.mx] CMI Internacional" tvg-logo="https://example.com/logos/cmi-int.png" group-title="General",CMI Internacional
+#url stream
+
+#EXTINF:-1 tvg-id="TVMEducacion.mx" tvg-name="[TVMEducacion.mx] TVM Educación" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="General",TVM Educación
+#url stream
+
+#EXTINF:-1 tvg-id="TVMCultural.mx" tvg-name="[TVMCultural.mx] TVM Cultural" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="General",TVM Cultural
+#url stream
