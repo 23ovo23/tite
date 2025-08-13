@@ -10,8 +10,8 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/60794.ts
 #EXTINF:-1 tvg-id="FOROtv.mx" tvg-name="[FOROtv.mx] FOROtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FOROtv_logo_2020.svg/512px-FOROtv_logo_2020.svg.png" group-title="Noticias",FOROtv
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/63156.ts
 
-#EXTINF:-1 tvg-id="TVMNoticias.mx" tvg-name="[TVMNoticias.mx] TVM Noticias" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Noticias",TVM Noticias
-#url stream
+#EXTINF:-1 tvg-id="N+MAS.mx" tvg-name="[N+.mx] N+" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Noticias",N+
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true
 
 
 # --- 🎬 ENTRETENIMIENTO ---
