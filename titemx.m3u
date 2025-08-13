@@ -4,11 +4,11 @@
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="[ADN40.mx] ADN 40" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="Noticias",ADN 40
 http://vdns2.top:8080/live/VIP012171068545157/4333b25f5add/5105.ts
 
-#EXTINF:-1 tvg-id="ImagenNews.mx" tvg-name="[ImagenNews.mx] Imagen News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Imagen_News_logo.svg/512px-Imagen_News_logo.svg.png" group-title="Noticias",Imagen News
-http://vdns2.top:8080/live/VIP012171068545157/4333b25f5add/5175.ts
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="[ImagenTV.mx] Imagen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Imagen_News_logo.svg/512px-Imagen_News_logo.svg.png" group-title="Noticias",Imagen TV
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/60794.ts
 
 #EXTINF:-1 tvg-id="FOROtv.mx" tvg-name="[FOROtv.mx] FOROtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FOROtv_logo_2020.svg/512px-FOROtv_logo_2020.svg.png" group-title="Noticias",FOROtv
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/63156.ts
 
 #EXTINF:-1 tvg-id="TVMNoticias.mx" tvg-name="[TVMNoticias.mx] TVM Noticias" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Noticias",TVM Noticias
 #url stream
