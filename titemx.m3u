@@ -13,6 +13,14 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/63156.ts
 #EXTINF:-1 tvg-id="N+MAS.mx" tvg-name="[N+.mx] N+" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Noticias",N+
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true
 
+#EXTINF:-1 tvg-id=".mx" tvg-name="[.mx] Milenio" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="Noticias",Milenio
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/59774.ts
+
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="[Teleformula.mx] Teleformula" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="Noticias",Teleformula
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151448.ts
+
+#EXTINF:-1 tvg-id="CNNESPAÑOL.mx" tvg-name="[CNNESPAÑOL.mx] CNN ESPAÑOL" tvg-logo="https://imcp.org.mx/wp-content/uploads/2022/11/ADN40.png" group-title="Noticias",CNN ESPAÑOL
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151371.ts
 
 # --- 🎬 ENTRETENIMIENTO ---
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="[AztecaUno.mx] Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png" group-title="Entretenimiento",Azteca Uno
