@@ -61,12 +61,6 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/134318.ts
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="[TVUNAM.mx] TV UNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TV_UNAM_logo.svg/512px-TV_UNAM_logo.svg.png" group-title="Educación y Cultura",TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NACIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="Educación y Cultura",NACIONAL GEOGRAPHIC CHANNEL
-http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133077.ts
-
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Educación y Cultura",Discovery channel
-http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133061.ts
-
 #EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/1920px-Love_Nature_logo_%282025%29.svg.png" group-title="Educación y Cultura",Love Nature FHD
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133074.ts
 
@@ -75,3 +69,9 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151323.ts
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="NATURALEZA SALVAJE " tvg-logo="" group-title="Educación y Cultura",NATURALEZA SALVAJE 
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/502763.ts
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NACIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="Educación y Cultura",NACIONAL GEOGRAPHIC CHANNEL
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133077.ts
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Educación y Cultura",Discovery channel
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133061.ts
