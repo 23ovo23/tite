@@ -234,10 +234,7 @@ http://tvlatino.club:2082/live/marinayeca/WcMZHxkWkLsV/551343.m3u8
 http://tvlatino.club:2082/live/marinayeca/WcMZHxkWkLsV/551344.m3u8
 
 #EXTINF:-1 tvg-id="CSI" tvg-name="CSI " tvg-logo="https://es.web.img3.acsta.net/pictures/15/08/25/13/24/395336.jpg" group-title="Series 24/7",CSI 
-http://tvlatino.club:2082/live/marinayeca/WcMZHxkWkLsV/551348.m3u8
-
-#EXTINF:-1 tvg-id="CSIOP2" tvg-name="CSI OP2" tvg-logo="https://es.web.img3.acsta.net/pictures/15/08/25/13/24/395336.jpg" group-title="Series 24/7",CSI OP2
-http://tvlatino.club:2082/live/marinayeca/WcMZHxkWkLsV/551347.m3u8
+http://lati.iptvlatino.cc:88/live/e9j69gcr/pp6fy25v/744941801.ts
 
 #EXTINF:-1 tvg-id="40y20" tvg-name="40 y 20" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/serie/posters/2016/4/serie-71740/w1280/qb4QfUDaxEVWx2HYz6Fk4msmKO4.jpg" group-title="Series 24/7",40 y 20
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/327365.m3u8
@@ -258,7 +255,10 @@ http://legendstv.com.mx:8080/live/Charly1234/Charly1234/277876.m3u8
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/331098.m3u8
 
 #EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",DR. HOUSE
-http://legendstv.com.mx:8080/live/Charly1234/Charly1234/136592.m3u8
+http://lati.iptvlatino.cc:88/live/e9j69gcr/pp6fy25v/744940977.ts
+
+#EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",DR. HOUSE op2
+http://lati.iptvlatino.cc:88/live/e9j69gcr/pp6fy25v/744943379.ts
 
 #EXTINF:-1 tvg-id="247Accion" tvg-name="24/7 ACCIÓN" tvg-logo="" group-title="Series 24/7",HORA DE AVENTURA
 http://legendstv.com.mx:8080/live/Charly1234/Charly1234/287020.m3u8
