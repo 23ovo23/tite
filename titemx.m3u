@@ -66,11 +66,11 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NACIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="Educación y Cultura",NACIONAL GEOGRAPHIC CHANNEL
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133077.ts
 
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/1920px-Love_Nature_logo_%282025%29.svg.png" group-title="Educación y Cultura",Love Nature FHD
-http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133074.ts
-
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Educación y Cultura",Discovery channel
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133061.ts
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/1920px-Love_Nature_logo_%282025%29.svg.png" group-title="Educación y Cultura",Love Nature FHD
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133074.ts
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Educación y Cultura",Animal Planet
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151323.ts
