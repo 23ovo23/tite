@@ -23,7 +23,10 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151448.ts
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151371.ts
 
 #EXTINF:-1 tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://media.licdn.com/dms/image/v2/C561BAQGQGKosQuqnSw/company-background_10000/company-background_10000/0/1623201386350/el_financiero_cover?e=2147483647&v=beta&t=Gbff91mILCc7AG5SAt9HkvaceQuamZyRJppUNFsdTNE" group-title="Noticias",EL FINANCIERO
-http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151378.m3u8
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151378.ts
+
+#EXTINF:-1 tvg-id="RTQQUERETARO" tvg-name="RTQ QUERETARO" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/04/RTQ-logo-blanco-1.jpg" group-title="Noticias",RTQ QUERETARO
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
 # --- 🎬 ENTRETENIMIENTO ---
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="[AztecaUno.mx] Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png" group-title="Entretenimiento",Azteca Uno
@@ -45,11 +48,9 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151321.ts
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/29965.ts
 
 # --- 🏛️ GOBIERNO ---
-#EXTINF:-1 tvg-id="TVM.mx" tvg-name="[TVM.mx] TVM" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Gobierno",TVM
-#url stream
 
-#EXTINF:-1 tvg-id="TVMLegislatura.mx" tvg-name="[TVMLegislatura.mx] TVM Legislatura" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Gobierno",TVM Legislatura
-#url stream
+#EXTINF:-1 tvg-id="MexiquenseTV" tvg-name="Mexiquense TV" tvg-logo="https://revistazocalo.com/wp-content/uploads/2023/11/dsdssd.jpg" group-title="Gobierno",Mexiquense TV
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/77102.m3u8
 
 
 # --- 📚 EDUCACIÓN Y CULTURA ---
