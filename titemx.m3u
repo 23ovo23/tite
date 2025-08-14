@@ -24,23 +24,22 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151371.ts
 
 # --- 🎬 ENTRETENIMIENTO ---
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="[AztecaUno.mx] Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png" group-title="Entretenimiento",Azteca Uno
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/39225.ts
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="[LasEstrellas.mx] Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Las_Estrellas_logo.svg/512px-Las_Estrellas_logo.svg.png" group-title="Entretenimiento",Las Estrellas
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/30321.ts
 
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="[Nu9ve.mx] NU9VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NU9VE_logo.svg/512px-NU9VE_logo.svg.png" group-title="Entretenimiento",NU9VE
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133871.ts
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="[Canal5.mx] Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_5_M%C3%A9xico_logo.svg/512px-Canal_5_M%C3%A9xico_logo.svg.png" group-title="Entretenimiento",Canal 5
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133870.ts
 
 #EXTINF:-1 tvg-id="AMas.mx" tvg-name="[AMas.mx] A Más" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/A_M%C3%A1s_logo.svg/512px-A_M%C3%A1s_logo.svg.png" group-title="Entretenimiento",A Más
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151321.ts
 
 #EXTINF:-1 tvg-id="Azteca7Edomex.mx" tvg-name="[Azteca7Edomex.mx] Azteca 7 Edomex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png" group-title="Entretenimiento",Azteca 7 Edomex
-#url stream
-
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/29965.ts
 
 # --- 🏛️ GOBIERNO ---
 #EXTINF:-1 tvg-id="TVM.mx" tvg-name="[TVM.mx] TVM" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="Gobierno",TVM
@@ -52,24 +51,18 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/151371.ts
 
 # --- 📚 EDUCACIÓN Y CULTURA ---
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="[CanalOnce.mx] Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Canal_Once_%28Mexico%29_logo.svg/512px-Canal_Once_%28Mexico%29_logo.svg.png" group-title="Educación y Cultura",Canal Once
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133872.ts
 
 #EXTINF:-1 tvg-id="OnceNinos.mx" tvg-name="[OnceNinos.mx] Once Niños" tvg-logo="https://example.com/logos/once-ninos.png" group-title="Educación y Cultura",Once Niños
-#url stream
+http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/134318.ts
 
 #EXTINF:-1 tvg-id="OnceMundo.mx" tvg-name="[OnceMundo.mx] Once Mundo" tvg-logo="https://example.com/logos/once-mundo.png" group-title="Educación y Cultura",Once Mundo
-#url stream
-
-#EXTINF:-1 tvg-id="Once23.mx" tvg-name="[Once23.mx] Once 23" tvg-logo="https://example.com/logos/once-23.png" group-title="Educación y Cultura",Once 23
-#url stream
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="[TVUNAM.mx] TV UNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TV_UNAM_logo.svg/512px-TV_UNAM_logo.svg.png" group-title="Educación y Cultura",TV UNAM
-#url stream
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="TVCientifica.mx" tvg-name="[TVCientifica.mx] TV Científica" tvg-logo="https://example.com/logos/tv-cientifica.png" group-title="Educación y Cultura",TV Científica
-#url stream
-
-#EXTINF:-1 tvg-id="CanalUNAM.mx" tvg-name="[CanalUNAM.mx] Canal UNAM" tvg-logo="https://example.com/logos/canal-unam.png" group-title="Educación y Cultura",Canal UNAM
 #url stream
 
 #EXTINF:-1 tvg-id="Canal22.mx" tvg-name="[Canal22.mx] Canal 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Canal_22_%28Mexico%29_logo.svg/512px-Canal_22_%28Mexico%29_logo.svg.png" group-title="Educación y Cultura",Canal 22
