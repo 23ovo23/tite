@@ -60,9 +60,6 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/133872.ts
 #EXTINF:-1 tvg-id="OnceNinos.mx" tvg-name="[OnceNinos.mx] Once Niños" tvg-logo="https://example.com/logos/once-ninos.png" group-title="Educación y Cultura",Once Niños
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/134318.ts
 
-#EXTINF:-1 tvg-id="OnceMundo.mx" tvg-name="[OnceMundo.mx] Once Mundo" tvg-logo="https://example.com/logos/once-mundo.png" group-title="Educación y Cultura",Once Mundo
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="[TVUNAM.mx] TV UNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TV_UNAM_logo.svg/512px-TV_UNAM_logo.svg.png" group-title="Educación y Cultura",TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
