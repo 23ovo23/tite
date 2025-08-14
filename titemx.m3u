@@ -73,20 +73,3 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="RTPInt.mx" tvg-name="[RTPInt.mx] RTP Internacional" tvg-logo="https://example.com/logos/rtp-internacional.png" group-title="Educación y Cultura",RTP Internacional
 #url stream
-
-
-# --- 🌐 GENERAL ---
-#EXTINF:-1 tvg-id="Imagen.mx" tvg-name="[Imagen.mx] Imagen Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Imagen_Televisi%C3%B3n_logo.svg/512px-Imagen_Televisi%C3%B3n_logo.svg.png" group-title="General",Imagen Televisión
-#url stream
-
-#EXTINF:-1 tvg-id="CMI.mx" tvg-name="[CMI.mx] CMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cadena_Mundial_de_Inspiraci%C3%B3n_logo.svg/512px-Cadena_Mundial_de_Inspiraci%C3%B3n_logo.svg.png" group-title="General",CMI
-#url stream
-
-#EXTINF:-1 tvg-id="CMIInt.mx" tvg-name="[CMIInt.mx] CMI Internacional" tvg-logo="https://example.com/logos/cmi-int.png" group-title="General",CMI Internacional
-#url stream
-
-#EXTINF:-1 tvg-id="TVMEducacion.mx" tvg-name="[TVMEducacion.mx] TVM Educación" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="General",TVM Educación
-#url stream
-
-#EXTINF:-1 tvg-id="TVMCultural.mx" tvg-name="[TVMCultural.mx] TVM Cultural" tvg-logo="https://www.edomex.gob.mx/sites/edomex.gob.mx/files/2021-10/logo_tvm.png" group-title="General",TVM Cultural
-#url stream
