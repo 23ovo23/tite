@@ -108,7 +108,7 @@ http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/155606.m3u8
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/156543.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png" group-title="Películas",HBO test
-http://192.168.1.111:8080/stream/mvs/hbo2/master.m3u8?u=admin&p=8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+http://192.168.1.111:4343/stream/sass/hbo/master.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/330px-HBO2_logo.svg.png" group-title="Películas",HBO2
 http://latinostvhd.club:8000/live/Bunk3rAereo/XjxqGTBWSyAX/156542.m3u8
